@@ -34,12 +34,7 @@
     <br />
     <a href="https://github.com/wangwiza/arduino-circuits"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/wangwiza/arduino-circuits">View Demo</a>
-    ·
-    <a href="https://github.com/wangwiza/arduino-circuits/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/wangwiza/arduino-circuits/issues">Request Feature</a>
+
   </p>
 </div>
 
@@ -76,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![traffic_light_schema](https://user-images.githubusercontent.com/76924804/192179919-b892ba2d-3cbc-42d0-a418-1df5a81d5292.png)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `wangwiza`, `arduino-circuits`, `twitter_handle`, `willzawang`, `email_client`, `email`, `C++ & Arduino`, `Learning C++ basics through arduino circuits.`
 
